@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <item
+        android:id="@+id/about"
+        android:title="关于"
+		android:showAsAction="always"
+		/>
+	
+	<item
+        android:id="@+id/reboot"
+        android:title="重启"
+		android:showAsAction="always"
+	/>
+
+	<item
+        android:id="@+id/key"
+        android:title="物理键控制"
+		android:showAsAction="never"
+	/>
+    
+</menu>
